@@ -1,6 +1,6 @@
-package com.template.springjpa.web.post;
+package com.tutorial.tutosecurity.web.post;
 
-import com.template.springjpa.service.PostsService;
+import com.tutorial.tutosecurity.service.PostsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RestController;
 

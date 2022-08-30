@@ -1,4 +1,4 @@
-package com.template.springjpa;
+package com.tutorial.tutosecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

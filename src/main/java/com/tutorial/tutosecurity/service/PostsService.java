@@ -1,6 +1,6 @@
-package com.template.springjpa.service;
+package com.tutorial.tutosecurity.service;
 
-import com.template.springjpa.domain.posts.PostsRepository;
+import com.tutorial.tutosecurity.domain.posts.PostsRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

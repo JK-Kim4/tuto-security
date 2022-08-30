@@ -1,4 +1,4 @@
-package com.template.springjpa.web;
+package com.tutorial.tutosecurity.web;
 
 
 import org.junit.Test;

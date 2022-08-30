@@ -1,4 +1,4 @@
-package com.template.springjpa.domain;
+package com.tutorial.tutosecurity.domain;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;

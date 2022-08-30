@@ -1,6 +1,6 @@
-package com.template.springjpa.domain.posts;
+package com.tutorial.tutosecurity.domain.posts;
 
-import com.template.springjpa.domain.BaseTimeEntity;
+import com.tutorial.tutosecurity.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

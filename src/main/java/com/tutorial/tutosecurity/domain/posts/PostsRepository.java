@@ -1,4 +1,4 @@
-package com.template.springjpa.domain.posts;
+package com.tutorial.tutosecurity.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
